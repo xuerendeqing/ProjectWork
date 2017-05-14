@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <dict>
+   <key>ServiceTitle</key>
+   <string>联系客服</string>   
+   <key>Phone</key>
+   <string>官方客服电话:15827364126</string>  
+   <key>QQ</key>
+   <string>官方客服QQ:569378175</string>
+   <key>WenXin</key>
+   <string>官方客服微信:15827364126</string>
+   <key>DisplayMesage</key>
+   <string>*请关注微信,官方不定期免费赠送游戏内道具哦!</string>
+</dict>

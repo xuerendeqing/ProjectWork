@@ -1,0 +1,26 @@
+﻿Build started 2017/5/14 10:17:44.
+     1>Project "D:\ProjectWork\Fish\cocos2d\external\recast\proj.win32\librecast.vcxproj" on node 5 (Build target(s)).
+     1>Lib:
+         D:\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\ProjectWork\Fish\proj.win32\Debug.win32\librecast.lib" /NOLOGO Debug.win32\DebugDraw.obj
+         Debug.win32\DetourDebugDraw.obj
+         Debug.win32\DetourCrowd.obj
+         Debug.win32\DetourLocalBoundary.obj
+         Debug.win32\DetourObstacleAvoidance.obj
+         Debug.win32\DetourPathCorridor.obj
+         Debug.win32\DetourPathQueue.obj
+         Debug.win32\DetourProximityGrid.obj
+         Debug.win32\DetourTileCache.obj
+         Debug.win32\DetourTileCacheBuilder.obj
+         Debug.win32\DetourAlloc.obj
+         Debug.win32\DetourCommon.obj
+         Debug.win32\DetourNavMesh.obj
+         Debug.win32\DetourNavMeshBuilder.obj
+         Debug.win32\DetourNavMeshQuery.obj
+         Debug.win32\DetourNode.obj
+         Debug.win32\fastlz.obj
+         librecast.vcxproj -> D:\ProjectWork\Fish\proj.win32\Debug.win32\librecast.lib
+     1>Done Building Project "D:\ProjectWork\Fish\cocos2d\external\recast\proj.win32\librecast.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25

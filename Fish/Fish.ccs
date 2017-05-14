@@ -1,0 +1,22 @@
+<Solution>
+  <PropertyGroup Name="Fish" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="lock_default.png" />
+        <Image Name="lock_down.png" />
+        <Image Name="lock_up.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="rage_default.png" />
+        <Image Name="rage_down.png" />
+        <Image Name="rage_up.png" />
+        <Image Name="speed_default.png" />
+        <Image Name="speed_down.png" />
+        <Image Name="speed_up.png" />
+        <Image Name="suspend_default.png" />
+        <Image Name="suspend_down.png" />
+        <Image Name="suspend_up.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

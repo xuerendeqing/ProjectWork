@@ -1,0 +1,39 @@
+﻿Build started 2017/5/14 10:17:44.
+     1>Project "D:\ProjectWork\Fish\cocos2d\cocos\editor-support\spine\proj.win32\libSpine.vcxproj" on node 3 (Build target(s)).
+     1>Lib:
+         D:\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\ProjectWork\Fish\proj.win32\Debug.win32\libSpine.lib" /NOLOGO Debug.win32\Animation.obj
+         Debug.win32\AnimationState.obj
+         Debug.win32\AnimationStateData.obj
+         Debug.win32\Atlas.obj
+         Debug.win32\AtlasAttachmentLoader.obj
+         Debug.win32\Attachment.obj
+         Debug.win32\AttachmentLoader.obj
+         Debug.win32\Bone.obj
+         Debug.win32\BoneData.obj
+         Debug.win32\BoundingBoxAttachment.obj
+         Debug.win32\Event.obj
+         Debug.win32\EventData.obj
+         Debug.win32\extension.obj
+         Debug.win32\IkConstraint.obj
+         Debug.win32\IkConstraintData.obj
+         Debug.win32\Json.obj
+         Debug.win32\MeshAttachment.obj
+         Debug.win32\PolygonBatch.obj
+         Debug.win32\RegionAttachment.obj
+         Debug.win32\Skeleton.obj
+         Debug.win32\SkeletonAnimation.obj
+         Debug.win32\SkeletonBounds.obj
+         Debug.win32\SkeletonData.obj
+         Debug.win32\SkeletonJson.obj
+         Debug.win32\SkeletonRenderer.obj
+         Debug.win32\Skin.obj
+         Debug.win32\SkinnedMeshAttachment.obj
+         Debug.win32\Slot.obj
+         Debug.win32\SlotData.obj
+         "Debug.win32\spine-cocos2dx.obj"
+         libSpine.vcxproj -> D:\ProjectWork\Fish\proj.win32\Debug.win32\libSpine.lib
+     1>Done Building Project "D:\ProjectWork\Fish\cocos2d\cocos\editor-support\spine\proj.win32\libSpine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40
